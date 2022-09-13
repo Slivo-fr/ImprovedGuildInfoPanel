@@ -20,8 +20,10 @@ ImprovedGuildInfoPanel.eventFrame:SetScript("OnEvent", function(self, event, ...
         end)
 
         GuildInfoEditBox:SetScript("OnChar", function()
-            GuildInfoEditBox:SetText(GuildInfoEditBox.readonlyText)
-            GuildInfoEditBox:HighlightText()
+            if (not CanEditGuildInfo()) then
+                GuildInfoEditBox:SetText(GuildInfoEditBox.readonlyText)
+                GuildInfoEditBox:HighlightText()
+            end
         end)
 
         if (not CanEditMOTD()) then
