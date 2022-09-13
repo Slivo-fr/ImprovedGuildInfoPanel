@@ -1,0 +1,7 @@
+## Interface: 11403
+## Title: ImprovedGuildInfoPanel
+## Notes: Allows selection/copy from guild info panel / MOTD
+## Author: Slivo
+## Version: 1.0.0
+
+ImprovedGuildInfoPanel.lua
