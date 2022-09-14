@@ -2,7 +2,7 @@
 ## Title: Improved Guild Info Panel
 ## Notes: Allows selection/copy from guild info panel / MOTD
 ## Author: Slivo
-## Version: 1.0.0
+## Version: 1.1.0
 ## X-Curse-Project-ID: 676141
 ## X-Wago-ID: RqGZLe6d
 
