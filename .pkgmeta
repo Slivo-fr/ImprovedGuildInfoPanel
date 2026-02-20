@@ -1,0 +1,5 @@
+package-as: ImprovedGuildInfoPanel
+
+ignore:
+  - README.md
+  - icon.png
