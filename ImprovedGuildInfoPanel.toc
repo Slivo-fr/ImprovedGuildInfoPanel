@@ -1,4 +1,4 @@
-## Interface: 11508
+## Interface: 11509
 ## Title: Improved Guild Info Panel
 ## Notes: Allows selection/copy from guild info panel / MOTD
 ## Author: Slivo
